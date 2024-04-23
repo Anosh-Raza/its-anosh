@@ -40,6 +40,16 @@ const TAB_DATA = [
       </ul>
     ),
   },
+  {
+    title: "Contact",
+    id: "contact",
+    content: (
+      <ul className="list-disc pl-2">
+        <li>raxanosh@gmail.com</li>
+        <li>+92 335 3054 706</li>
+      </ul>
+    ),
+  },
 ];
 
 const AboutSection = () => {
@@ -88,9 +98,16 @@ const AboutSection = () => {
             <TabButton
               selectTab={() => handleTabChange("experience")}
               active={tab === "experience"}
-            >
+              >
               {" "}
               Experience{" "}
+            </TabButton>
+            <TabButton
+              selectTab={() => handleTabChange("contact")}
+              active={tab === "contact"}
+              >
+              {" "}
+              Contact{" "}
             </TabButton>
           </div>
           <div className="mt-8">
