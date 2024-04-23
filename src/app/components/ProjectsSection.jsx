@@ -176,6 +176,24 @@ const projectsData = [
     gitUrl: "https://www.vehicle-partners.co.uk/",
     previewUrl: "https://www.vehicle-partners.co.uk/",
   },
+  {
+    id: 19,
+    title: "Car Max Report",
+    description: "VIN Number",
+    image: "./images/projects/carmax.png",
+    tag: ["All", "WordPress"],
+    gitUrl: "https://www.carmaxreport.com/",
+    previewUrl: "https://www.carmaxreport.com/",
+  },
+  {
+    id: 20,
+    title: "Q Leathers",
+    description: "Leather Wholesaler",
+    image: "./images/projects/qleathers.png",
+    tag: ["All", "WordPress"],
+    gitUrl: "https://www.qamarleathers.shop/",
+    previewUrl: "https://www.qamarleathers.shop/",
+  },
 ];
 
 const ProjectsSection = () => {
