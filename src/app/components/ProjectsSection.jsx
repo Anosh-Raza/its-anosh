@@ -196,7 +196,7 @@ const projectsData = [
   },
   {
     id: 21,
-    title: "Q Leathers",
+    title: "SacraSoul",
     description: "Health Products",
     image: "",
     tag: ["All", "Shopify"],
