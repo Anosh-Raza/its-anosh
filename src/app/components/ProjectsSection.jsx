@@ -198,7 +198,7 @@ const projectsData = [
     id: 21,
     title: "SacraSoul",
     description: "Health Products",
-    image: "",
+    image: "./images/projects/sacrasoul.jpg",
     tag: ["All", "Shopify"],
     gitUrl: "https://sacrasoul.com/",
     previewUrl: "https://sacrasoul.com/",
