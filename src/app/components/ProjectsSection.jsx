@@ -197,7 +197,7 @@ const projectsData = [
   {
     id: 21,
     title: "Q Leathers",
-    description: "Leather Wholesaler",
+    description: "Health Products",
     image: "",
     tag: ["All", "Shopify"],
     gitUrl: "https://sacrasoul.com/",
