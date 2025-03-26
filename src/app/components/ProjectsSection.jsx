@@ -194,6 +194,15 @@ const projectsData = [
     gitUrl: "https://www.qamarleathers.shop/",
     previewUrl: "https://www.qamarleathers.shop/",
   },
+  {
+    id: 21,
+    title: "Q Leathers",
+    description: "Leather Wholesaler",
+    image: "",
+    tag: ["All", "Shopify"],
+    gitUrl: "https://sacrasoul.com/",
+    previewUrl: "https://sacrasoul.com/",
+  },
 ];
 
 const ProjectsSection = () => {
